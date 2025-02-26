@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "EmbarcadosPCB")(type "KiCad")(uri "${KIPRJMOD}/EmbarcadosPCB.pretty")(options "")(descr ""))
+)

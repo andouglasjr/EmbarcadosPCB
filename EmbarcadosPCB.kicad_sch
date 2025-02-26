@@ -1,0 +1,248 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "4030b0a4-fef4-460f-a741-3ff85f83bbc8")
+	(paper "A4")
+	(title_block
+		(title "EMBARCADOS - CURSO PCB")
+		(date "2025-02-23")
+		(rev "00")
+		(company "IFRN")
+		(comment 1 "Eng. Andouglas G. da S. Júnior")
+	)
+	(lib_symbols)
+	(sheet
+		(at 160.02 41.91)
+		(size 50.8 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "56ace4fe-7311-4d3b-9f6f-0a4b278f97bb")
+		(property "Sheetname" "IO"
+			(at 160.02 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "io.kicad_sch"
+			(at 160.02 71.7046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EmbarcadosPCB"
+				(path "/4030b0a4-fef4-460f-a741-3ff85f83bbc8"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 36.83 41.91)
+		(size 46.99 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "750b26d6-7f5e-426a-ae4d-2b7d8ea89841")
+		(property "Sheetname" "POWER"
+			(at 36.83 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 36.83 72.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EmbarcadosPCB"
+				(path "/4030b0a4-fef4-460f-a741-3ff85f83bbc8"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 36.83 85.09)
+		(size 46.99 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8c00112c-bfc0-4fc2-b3a3-0ed59527a240")
+		(property "Sheetname" "ANALOG"
+			(at 36.83 84.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "analog.kicad_sch"
+			(at 36.83 121.2346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EmbarcadosPCB"
+				(path "/4030b0a4-fef4-460f-a741-3ff85f83bbc8"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 85.09)
+		(size 50.8 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "98effa09-cb9c-4660-befa-ff3b3c7e83d1")
+		(property "Sheetname" "AUXILIAR"
+			(at 160.02 84.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "auxiliar.kicad_sch"
+			(at 160.02 121.2346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EmbarcadosPCB"
+				(path "/4030b0a4-fef4-460f-a741-3ff85f83bbc8"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 93.98 85.09)
+		(size 53.34 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c073aac9-52ef-4e56-ae6c-236bc68dd458")
+		(property "Sheetname" "INTERFACE"
+			(at 93.98 84.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "interface.kicad_sch"
+			(at 93.98 121.2346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EmbarcadosPCB"
+				(path "/4030b0a4-fef4-460f-a741-3ff85f83bbc8"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 93.98 41.91)
+		(size 53.34 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "de0c2eb4-368b-4753-b40d-42b19d140b42")
+		(property "Sheetname" "MCU"
+			(at 93.98 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 93.98 72.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EmbarcadosPCB"
+				(path "/4030b0a4-fef4-460f-a741-3ff85f83bbc8"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
